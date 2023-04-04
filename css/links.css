@@ -43,6 +43,8 @@ h2{
     margin-left: 45%;
 }
 .bttn1:hover{
+    width: 100px;
+    height: 50px;
     background-color: brown;
     color: aquamarine;
     border: solid 5px royalblue;
